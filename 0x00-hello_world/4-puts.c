@@ -2,7 +2,7 @@
 
 /**
  *main - Prints the words in quotes into the console
- *Return : Exiting programme 
+ *Return: Exiting programme 
  */
 int main(void)
 {
