@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- *main - Prints the words in quotes into the console
- *Return: Exiting programme 
+ * main - Entry point
+ * Return 0 if succesfull
  */
 int main(void)
 {
