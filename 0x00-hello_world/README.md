@@ -10,3 +10,4 @@ Puts
 Print
 Puts
 6-size.c
+Assembly code
