@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
- * Return 0 if succesfull
+ * main - Entry point and prints the phase in quotes
+ * Return: If properly exited returns zero
  */
 int main(void)
 {
