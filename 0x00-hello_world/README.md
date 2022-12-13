@@ -12,3 +12,4 @@ Puts
 6-size.c
 Assembly code
 101-quote.c
+6-size.c
