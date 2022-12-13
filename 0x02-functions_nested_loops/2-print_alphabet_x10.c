@@ -1,8 +1,6 @@
 #include "2-main.c"
 /**
- *
  *print_alphabet_x10 - Prints all lowercase alphabets 10x
- *
  */
 void print_alphabet_x10(void)
 {
