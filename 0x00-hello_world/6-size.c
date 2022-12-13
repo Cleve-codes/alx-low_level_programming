@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - prints the size of various types
+ * main - prints the size of various type
+ *for both 64 and 32 bit
  * Return: 0 if exited properly and non-zero if otherwise
  */
 int main(void)
