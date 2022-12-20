@@ -2,14 +2,14 @@
 #include <time.h>
 #include <math.h>
 /**
- * main - finds the larges prime factor of a number followed by an ew line
- * Return: 0 if succesful
+ * main - findis the larges prime factor of a number followed by an ew line
+ * Return: 0 ifi succesful
  */
 int main(void)
 {
-	long int i;
 	long int n;
 	long int max;
+	long int i;
 
 	n = 612852475143;
 	max = -1;
@@ -31,6 +31,7 @@ int main(void)
 
 	if (n > 2)
 		max = n;
+
 	printf("%ld\n", max);
 
 	return (0);
