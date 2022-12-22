@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
  * rot13 - Encrypt in rot13
  * @s: Pointer to string
