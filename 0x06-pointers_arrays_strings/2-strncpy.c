@@ -16,7 +16,7 @@ char *_strncpy(char *dest, char *src, int n)
 	 * The string placed in dest will not be null terminated
 	 */
 	for (i = 0; i < n && src[i] != '\0'; i++)
-		dest[i] = src [i];
+		dest[i] = src[i];
 	/**
 	 * if length of source is less than n then write additional
 	 * nullbytes to dest to ensure that a total of n bytes is written
